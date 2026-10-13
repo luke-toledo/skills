@@ -1,0 +1,4 @@
+interface:
+  display_name: "github / CTO"
+  short_description: "Coordinate issue batches and own technical follow-through"
+  default_prompt: "Use $cto to coordinate an approved batch through its agreed delivery state, owning technical follow-through and bringing consequential decisions to this chat."
